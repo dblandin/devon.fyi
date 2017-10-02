@@ -1,3 +1,7 @@
 [submodule "themes/nofancy"]
 	path = themes/nofancy
 	url = git@github.com:gizak/nofancy.git
+[submodule "public"]
+	path = public
+	url = git@github.com:dblandin/dblandin.github.io.git
+	branch = master
