@@ -1,0 +1,4 @@
+.bundle
+public/
+tmp/
+vendor/ruby/

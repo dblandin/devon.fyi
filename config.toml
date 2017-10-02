@@ -1,0 +1,12 @@
+baseurl = "https://devon.fyi"
+title = "devon.fyi"
+theme = "nofancy"
+
+[params]
+    highlight = "github"
+    topmenu = "categories"
+
+[author]
+    name = "Devon Blandin"
+    github = "dblandin"
+    twitter = "dblandin"
