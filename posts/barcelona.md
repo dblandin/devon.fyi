@@ -1,9 +1,7 @@
-+++
-date = "2017-10-01T20:52:45-04:00"
-title = "barcelona"
-categories = ["travel"]
-type="post"
-+++
+---
+title: 'barcelona'
+date: '2017-10-01'
+---
 
 ## In The City
 
