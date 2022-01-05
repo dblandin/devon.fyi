@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hey there 👋</p>
         <p>
-          My name is Devon and I'm a Software Engineer based in NYC.
+          My name is Devon and I'm a Software Engineer based in Berlin, Germany.
         </p>
         <p>I'm on <a href="https://twitter.com/dblandin">twitter</a> and usually elsewhere on the internet as dblandin.</p>
         <p>See you around!</p>
